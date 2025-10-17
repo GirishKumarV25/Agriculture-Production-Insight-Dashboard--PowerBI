@@ -30,6 +30,11 @@ This interactive Power BI dashboard provides a comprehensive analysis of agricul
 
 ---
 
+🛠 Tools & Technologies
+Power BI Desktop DAX (Data Analysis Expressions) for KPIs & calculations CSV file as the data source
+
+---
+
 ## 📌 Tooltip Strategy (Power BI)
 Each visual includes dynamic tooltips with:
 - Region Name
